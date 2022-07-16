@@ -10,6 +10,6 @@
 
 I have a blog on Medium where I write about programming, data analysis, and math. This repository contains the projects I developed for articles I wrote there.
 
-- [Medium Link](https://medium.com/@marcoshsq)
+- [Medium](https://medium.com/@marcoshsq)
 
 ##
