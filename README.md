@@ -13,3 +13,13 @@ I have a blog on Medium where I write about programming, data analysis, and math
 - [Medium](https://medium.com/@marcoshsq)
 
 ##
+
+<div align="center">
+
+Project's Link | Article's Link | Publication Day
+:--: | :--: | :--:
+--- | --- | ---
+
+</div>
+
+---
