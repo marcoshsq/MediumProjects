@@ -16,21 +16,9 @@ I have a blog on Medium where I write about programming, data analysis, and math
 
 <h3 align="center">List of Projects</h3>
 
-<div align="center">
+<div align="left">
 
-Project's Link | Article's Link | Publication Day
-:--: | :--: | :--:
-[Project 1 Name](#) | [Article 1 Title](#) | DD/MM/YYYY
-[Project 2 Name](#) | [Article 2 Title](#) | DD/MM/YYYY
-[Project 3 Name](#) | [Article 3 Title](#) | DD/MM/YYYY
+**Project 1**: A Python script to analyze data from XYZ dataset. Learn how to clean and visualize the data effectively. [Read the article here](#).
+
 
 </div>
-
----
-
-<h3>Project Descriptions</h3>
-
-- **Project 1**: A Python script to analyze data from XYZ dataset. Learn how to clean and visualize the data effectively. [Read the article here](#).
-- **Project 2**: A machine learning model built to predict ABC outcomes. Find the full implementation and explanation in this article. [Read more](#).
-- **Project 3**: A web scraping project that extracts information from XYZ website. Understand how to use Python libraries for scraping. [Read the full tutorial](#).
-
